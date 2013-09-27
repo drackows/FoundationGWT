@@ -1,0 +1,17 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<g:HTMLPanel>
+	<nav class="top-bar" ui:field="topNav">
+		<ul class="title-area">
+			<li class="name">Dupa</li>
+		</ul>
+		<ul class="left">
+			
+		</ul>
+		<ul class="right">
+			
+		</ul>
+	</nav>
+	</g:HTMLPanel>
+</ui:UiBinder> 
