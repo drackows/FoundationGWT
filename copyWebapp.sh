@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp -R src/main/webapp/* target/FoundationGWT/
+cp -vR src/main/webapp/* target/FoundationGWT/

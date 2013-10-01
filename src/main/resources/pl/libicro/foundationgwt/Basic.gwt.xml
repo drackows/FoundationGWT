@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.5.1//EN" "http://google-web-toolkit.googlecode.com/svn/tags/2.5.1/distro-source/core/src/gwt-module.dtd">
-<module>
+<module rename-to="Basic">
 	<inherits name="com.google.gwt.user.User" />
-	<source path="basic"/>
+	
+	<script src="/js/vendor/custom.modernizr.js"></script>
+	<script src="/js/vendor/jquery.js"></script>
+	<script src="/js/foundation/foundation.js"></script>
+	
+    <source path="basic"/>
 </module>
